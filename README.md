@@ -1,4 +1,8 @@
 # Truquitos
+* Dar formato al *PUTO CODIGO*
+````aidl
+CONTROL+ALT+L
+````
 * Crear Actividades
 >  startActivity(Intent(this,UserPage::class.java)
 
@@ -16,3 +20,4 @@ vista encuentra por id a tal primo.
 botonLog es la variable con atributo setOnclickListener eso es que cuando le des pues se ejecuta el metodo
 login()
 >botonLog.setOnClickListener { login() }
+
