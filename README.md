@@ -21,3 +21,27 @@ botonLog es la variable con atributo setOnclickListener eso es que cuando le des
 login()
 >botonLog.setOnClickListener { login() }
 
+
+
+
+
+
+
+### Referencias
+1.  Dialogos 
+* https://m2.material.io/components/dialogs
+* https://www.develou.com/como-crear-dialogos-en-android/
+
+2. Eventos
+* https://developer.android.com/guide/topics/ui/ui-events?hl=es-419#kotlin
+
+3. EditText
+* https://www.develou.com/edittext-android/
+
+4. Firebase
+* https://firebase.google.com/docs?hl=es-419
+
+5. Mockup
+
+* https://app.diagrams.net
+---
